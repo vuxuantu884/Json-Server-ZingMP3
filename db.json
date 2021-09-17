@@ -1,0 +1,84 @@
+{
+  "plays": [
+    {
+      "id": 1,
+      "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/e/6/2/5e6290e20ec23e7f7cb1965d3dd4ef8a.jpg",
+      "audio": "https://vnno-vn-5-tf-mp3-s1-zmp3.zadn.vn/488a1dbd4bfaa2a4fbeb/3483921316893966355?authen=exp=1632064851~acl=/488a1dbd4bfaa2a4fbeb/*~hmac=19ce3946c7a87f5da88fede0333e7c06&fs=MTYzMTg5MjA1MTQ4OHx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+      "name": "Don't You Hold Me Down",
+      "description": "description",
+      "percent": ""
+    },
+    {
+      "id": 2,
+      "image": "https://photo-zmp3.zadn.vn/banner/c/d/b/2/cdb2446b0b3288798680f4639ee6f7d9.jpg",
+      "audio": "https://mp3-s1-zmp3.zadn.vn/7faf38f146b7afe9f6a6/8625349765514457170?authen=exp=1632064960~acl=/7faf38f146b7afe9f6a6/*~hmac=67ff67f37e6a25d5e7f131b03c3e3b68&fs=MTYzMTg5MjE2MDA0OXx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+      "name": "Lean On",
+      "description": "description",
+      "percent": 10
+    },
+    {
+      "id": 3,
+      "image": "https://photo-zmp3.zadn.vn/avatars/d/e/8/0/de80f8209c0816856abde0d01e767872.jpg",
+      "audio": "https://vnno-zn-5-tf-mp3-s1-zmp3.zadn.vn/0929fa1674519d0fc440/8055593184492952667?authen=exp=1632064937~acl=/0929fa1674519d0fc440/*~hmac=970c8c4ab066c3e68c176a9ef5590236&fs=MTYzMTg5MjEzNzQxNXx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+      "name": "On My Way",
+      "description": "description",
+      "percent": 20
+    },
+    {
+      "id": 4,
+      "image": "https://photo-zmp3.zadn.vn/banner/a/4/9/8/a4983f462a1e8a4f452d96371231b0f8.jpg",
+      "audio": "https://vnno-vn-6-tf-mp3-s1-zmp3.zadn.vn/3fcaddb1c7f62ea877e7/2838703366398604662?authen=exp=1632065022~acl=/3fcaddb1c7f62ea877e7/*~hmac=667743d7f9607ee823d2283308813e59&fs=MTYzMTg5MjIyMjY5MXx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+      "name": "",
+      "description": "description",
+      "percent": 30
+    },
+    {
+      "id": 5,
+      "image": "https://photo-zmp3.zadn.vn/cover/e/8/e/6/e8e6e5fbb2415f239f393b5f4809010b.jpg",
+      "audio": "https://vnno-vn-6-tf-mp3-s1-zmp3.zadn.vn/184215cbc38c2ad2739d/2175369575208759767?authen=exp=1632065057~acl=/184215cbc38c2ad2739d/*~hmac=899717f523bd5e02720c445f21a859c9&fs=MTYzMTg5MjI1NzAzMHx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+      "name": "Alone",
+      "description": "description",
+      "percent": 40
+    },
+    {
+        "id": 6,
+        "image": "https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/5/e/6/2/5e6290e20ec23e7f7cb1965d3dd4ef8a.jpg",
+        "audio": "https://vnno-vn-5-tf-mp3-s1-zmp3.zadn.vn/488a1dbd4bfaa2a4fbeb/3483921316893966355?authen=exp=1632064851~acl=/488a1dbd4bfaa2a4fbeb/*~hmac=19ce3946c7a87f5da88fede0333e7c06&fs=MTYzMTg5MjA1MTQ4OHx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+        "name": "Don't You Hold Me Down",
+        "description": "description",
+        "percent": 50
+      },
+      {
+        "id": 7,
+        "image": "https://photo-zmp3.zadn.vn/banner/c/d/b/2/cdb2446b0b3288798680f4639ee6f7d9.jpg",
+        "audio": "https://mp3-s1-zmp3.zadn.vn/7faf38f146b7afe9f6a6/8625349765514457170?authen=exp=1632064960~acl=/7faf38f146b7afe9f6a6/*~hmac=67ff67f37e6a25d5e7f131b03c3e3b68&fs=MTYzMTg5MjE2MDA0OXx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+        "name": "Lean On",
+        "description": "description",
+        "percent": 10
+      },
+      {
+        "id": 8,
+        "image": "https://photo-zmp3.zadn.vn/avatars/d/e/8/0/de80f8209c0816856abde0d01e767872.jpg",
+        "audio": "https://vnno-zn-5-tf-mp3-s1-zmp3.zadn.vn/0929fa1674519d0fc440/8055593184492952667?authen=exp=1632064937~acl=/0929fa1674519d0fc440/*~hmac=970c8c4ab066c3e68c176a9ef5590236&fs=MTYzMTg5MjEzNzQxNXx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+        "name": "On My Way",
+        "description": "description",
+        "percent": 20
+      },
+      {
+        "id": 9,
+        "image": "https://photo-zmp3.zadn.vn/banner/a/4/9/8/a4983f462a1e8a4f452d96371231b0f8.jpg",
+        "audio": "https://vnno-vn-6-tf-mp3-s1-zmp3.zadn.vn/3fcaddb1c7f62ea877e7/2838703366398604662?authen=exp=1632065022~acl=/3fcaddb1c7f62ea877e7/*~hmac=667743d7f9607ee823d2283308813e59&fs=MTYzMTg5MjIyMjY5MXx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+        "name": "",
+        "description": "description",
+        "percent": 30
+      },
+      {
+        "id": 10,
+        "image": "https://photo-zmp3.zadn.vn/cover/e/8/e/6/e8e6e5fbb2415f239f393b5f4809010b.jpg",
+        "audio": "https://vnno-vn-6-tf-mp3-s1-zmp3.zadn.vn/184215cbc38c2ad2739d/2175369575208759767?authen=exp=1632065057~acl=/184215cbc38c2ad2739d/*~hmac=899717f523bd5e02720c445f21a859c9&fs=MTYzMTg5MjI1NzAzMHx3ZWJWNnwwfDExMy4yMi40NS4xNDA",
+        "name": "Alone",
+        "description": "description",
+        "percent": 10
+      }
+  ]
+}
